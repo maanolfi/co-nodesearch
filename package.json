@@ -1,0 +1,14 @@
+{
+  "name": "searchfile",
+  "version": "1.0.0",
+  "description": "Serach files with node",
+  "preferGlobal": true,
+  "bin": {
+    "search-files": "./bin/searchfiles"
+  },
+  "files": [
+    "./bin"
+  ],
+  "author": "Digital Innovation One",
+  "license": "MIT"
+}
